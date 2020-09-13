@@ -2,7 +2,7 @@ package finalsection;
 
 import java.util.function.Consumer;
 
-public class Main {
+public class Callbecks {
     public static void main(String[] args) {
 
         hello(
